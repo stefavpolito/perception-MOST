@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="sensor_fusion_ros1" type="yolo_lidar_ros1" name="yolo_lidar_ros1" output="screen">
+        <param name="ground_level" value="-2.0"/>
+        <param name="leaf_size" value="0.1"/>
+        <param name="cluster_tolerance" value="0.35"/>
+        <param name="truncate_threshold" value="0.2"/>
+        <param name="bbox_rescale" value="0.9"/>
+        <param name="MinClusterSize" value="20"/>
+    </node>
+</launch>

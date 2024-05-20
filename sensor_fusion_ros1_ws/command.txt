@@ -1,0 +1,6 @@
+roscore
+rviz
+roslaunch hesai_lidar hesai_lidar.launch
+roslaunch zed_wrapper zed2.launch
+roslaunch yolov7_ros yolov7.launch
+roslaunch sensor_fusion_ros1 sensor_fusion_ros1.launch
