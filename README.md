@@ -5,7 +5,7 @@ Workspace of the perception pipeline developed for ADAS in the context of MOST -
 The code of the sensor fusion node is available at https://github.com/stefavpolito/SF32D
 
 ## Citation
-If this dataset is useful or relevant to your research, please kindly recognize our contributions by citing our paper:
+If this code is useful or relevant to your research, please kindly recognize our contributions by citing our paper:
 
 ```
 @Article{s24247895, 
